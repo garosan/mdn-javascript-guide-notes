@@ -28,7 +28,7 @@ Javascript uses the Unicode character set. For example the german word 'Früh' c
 
 Instructions are called statements and are separated by semicolons. Semicolons are not mandatory unless you want to write two statements on the same line. It is considered best practice, however, to always write a semicolon after a statement.
 
-The source text of a Javascript script gets scanned and converted into input elements which are tokens, control characters, line terminators, comments and whitespace (spaces, tabs and newline characters are considered whitespace).
+The source text of a Javascript script gets scanned and converted into input elements which are **tokens, control characters, line terminators, comments and whitespace** (spaces, tabs and newline characters are considered whitespace).
 
 ## Comments
 
