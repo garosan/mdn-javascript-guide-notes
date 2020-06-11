@@ -22,6 +22,8 @@
 
 ## Strings
 
+A string in Javascript is a set of "elements" of 16-bit unsigned integer values  (UTF-16 code units).
+
 ### String literals
 
 ### String objects
